@@ -21,7 +21,7 @@ const Hero = () => {
         <p className="text-gray-400 max-w-lg mb-10">
           It is a long established fact that a reader will be distracted by the
           readable content of a page when looking at its layout. The point of
-          using Lorem Ipsum.
+          using Lorem Ipsum dfdf.
         </p>
 
         {/* Estadísticas */}
